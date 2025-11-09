@@ -383,10 +383,3 @@ This project was developed as part of the CS316: Introduction to AI and Data Sci
 
 This project is developed for educational purposes as part of the CS316 course curriculum.
 
-## Contact
-
-For questions or feedback regarding this project, please contact through the course communication channels.
-
----
-
-**Note:** This project demonstrates the application of machine learning techniques to support sustainable agriculture and contributes to achieving UN Sustainable Development Goal 2: Zero Hunger.
